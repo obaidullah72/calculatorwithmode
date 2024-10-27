@@ -87,8 +87,8 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 ## 📬 Contact
 For any questions or suggestions, reach out to me:
 
-- **GitHub**: [your-username](https://github.com/obaidullah72/)
-- **LinkedIn**: [your-profile](https://www.linkedin.com/in/obaidullah72/)
+- **GitHub**: [obaidullah72](https://github.com/obaidullah72/)
+- **LinkedIn**: [obaidullah72](https://www.linkedin.com/in/obaidullah72/)
 
 ---
 
