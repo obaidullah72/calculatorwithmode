@@ -1,13 +1,8 @@
-Here’s a neat `README.md` template for your **Calculator with Light/Dark Mode** project, complete with sections for clarity and appeal.
-
----
-
-```markdown
 # Calculator with Mode 🌗
 
 A **simple calculator application** that supports both **light and dark modes**. This project focuses on providing a clean and intuitive user interface while also demonstrating the power of **theme switching** in modern mobile apps.
 
-![Calculator App Screenshot](assets/app_screenshot.png)
+![Calculator App Screenshot](assets/ss.jpeg)
 
 ---
 
@@ -27,7 +22,7 @@ A **simple calculator application** that supports both **light and dark modes**.
 
 | Light Mode      | Dark Mode       |
 |-----------------|-----------------|
-| ![Light Mode](assets/light_mode.png) | ![Dark Mode](assets/dark_mode.png) |
+| ![Light Mode](assets/light.jpeg) | ![Dark Mode](assets/dark.jpeg) |
 
 ---
 
@@ -99,9 +94,6 @@ For any questions or suggestions, reach out to me:
 
 [![Visitor Count](https://visitcount.itsvg.in/api?id=your-username&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
-```
-
----
 
 ### Explanation:
 
