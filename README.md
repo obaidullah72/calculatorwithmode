@@ -92,16 +92,4 @@ For any questions or suggestions, reach out to me:
 
 ---
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=your-username&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
-
-
-### Explanation:
-
-1. **Title and Intro**: Gives an overview of the project.
-2. **Screenshots Section**: Showcases light and dark modes.
-3. **Project Structure**: Helps contributors understand the file organization.
-4. **How to Run**: Instructions for running the project locally.
-5. **Future Improvements**: Encourages contributors.
-6. **Contact Info**: Adds ways to connect with you.
-
-Let me know if you need any more changes or additional sections!
+[![Visitor Count](https://visitcount.itsvg.in/api?id=obaidullah72&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
